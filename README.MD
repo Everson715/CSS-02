@@ -28,4 +28,3 @@ Utiliza `CSS Grid` para a divisão principal do layout (colunas) e `Flexbox` nas
 
 Acesse o Deploy pelo link:
    - https://everson715.github.io/CSS-02/
-
