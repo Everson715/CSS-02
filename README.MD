@@ -27,4 +27,5 @@ Utiliza `CSS Grid` para a divisão principal do layout (colunas) e `Flexbox` nas
 ## 🌐 Na WEB
 
 Acesse o Deploy pelo link:
-   - https://everson715.github.io/CSS-02/
+   - https://everson715.github.io/CSS-02/projeto-flexbox/index.html
+   - https://everson715.github.io/CSS-02/projeto-grid/index.html
